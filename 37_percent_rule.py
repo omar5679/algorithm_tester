@@ -1,3 +1,5 @@
+#github test: origin -> master (github -> local)
+
 from random import random
 
 a = [None] * 100
